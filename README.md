@@ -39,7 +39,7 @@ plt.show()
 
 ```
 ## Output
-</br>![{D9165852-983D-4C97-80E0-144B7F07B4B9}](https://github.com/user-attachments/assets/dcb2b6e2-812b-47e2-82e8-2afbe267f30d)
+
 
 
 
